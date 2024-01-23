@@ -1,7 +1,9 @@
 #Mon site pour mon portfolio
 
-##Pour le clonner
+``sh
+git clone \**https://github.com/VietoPlagueNox/TP-Git**
 
 ```Un langage Shell
 
+''
 
